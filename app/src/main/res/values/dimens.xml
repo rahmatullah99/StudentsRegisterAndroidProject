@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="buttonCornerRadius">7dp</dimen>
+    <dimen name="buttonTextSize">15dp</dimen>
+    <dimen name="buttonPaddingWidth">26dp</dimen>
+    <dimen name="buttonPaddingHeight">10dp</dimen>
+
+    <dimen name="studentNameText">16sp</dimen>
+    <dimen name="studentEmail">14sp</dimen>
+
+    <dimen name="edit">48dp</dimen>
+
+    <dimen name="listItemMargin">10dp</dimen>
+    <dimen name="listItemSpace">5dp</dimen>
+</resources>
