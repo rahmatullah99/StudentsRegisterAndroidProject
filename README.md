@@ -8,7 +8,7 @@ Teacher or faculty can maintain record of their students using this app by enter
 
 **Main Page**
 
-![WhatsApp Image 2022-09-11 at 21 21 56](https://user-images.githubusercontent.com/99873564/189537036-02e36616-8a33-47bd-96c0-a502adf470ca.jpeg)
+![Optimized-WhatsApp Image 2022-09-11 at 21 21 56 (2)](https://user-images.githubusercontent.com/99873564/189537284-f2472f7f-590c-4ca4-82a9-2087e87456e8.jpeg)
 
 **Technologies used**
 
